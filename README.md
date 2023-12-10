@@ -18,6 +18,7 @@ Introduzir ao versionamento de código com Git e GitHub.
 <br>
 
 ## Percurso
+//introdução para os materiais de apoio
 <table>
   <thead>
     <tr align="left">
@@ -94,3 +95,4 @@ Introduzir ao versionamento de código com Git e GitHub.
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+//uso direto pelo GitHub Deskotp e edição 
